@@ -99,13 +99,13 @@ Friday labs are released each Friday and completed asynchronously. Recommended: 
 
 | Week | Dates | Monday — Lecture | Wednesday — Studio | Friday — Lab (graded) |
 |------|-------|------------------|--------------------|-----------------------|
-| 1 | Aug 26–28 | *(No Mon — term starts Tue)* Data Science Systems Overview (Wed) | Kaggle/Colab Workflow + Notebook Hygiene | Lab 01: Environment + GitHub Setup |
-| 2 | Aug 31–Sep 4 | Git for Data Science | Clone / Commit / Push Studio | Lab 02: Submission Drill + Fix a Broken Notebook |
+| 1 | Aug 26–28 | *(No Mon — term starts Tue)* Data Science Systems Overview (Wed) | *(no second meeting this week)* | Lab 01: Environment + GitHub Setup |
+| 2 | Aug 31–Sep 4 | Git for Data Science | Kaggle/Colab Workflow + Notebook Hygiene | Lab 02: Submission Drill + Fix a Broken Notebook |
 | 3 | Sep 7–11 | SQL Fundamentals in Notebooks | SQLite Joins + Grouping | Lab 03: SQL Challenge Set |
 | 4 | Sep 14–18 | SQL → Python → DataFrames | Pandas Core Ops (filter, groupby, join) | Lab 04: Pandas Challenge |
 | 5 | Sep 21–25 | Data Cleaning (types, missing, duplicates) | Cleaning Clinic on Messy CSV | Lab 05: Cleaning Gauntlet |
 | 6 | Sep 28–Oct 2 | JSON & Nested Records | JSON → Tidy Tables | Lab 06: Normalize + Join Nested JSON |
-| 7 | Oct 5–9 | *(No Mon — Reading Day)* APIs 101 (Wed) | API Ingestion + Retries | Lab 07: Public API → Clean Table |
+| 7 | Oct 5–9 | *(No Mon — Reading Day)* | APIs 101 + Ingestion with Retries (Wed) | Lab 07: Public API → Clean Table |
 | 8 | Oct 12–16 | ETL Concepts + **Walmart Case** Framing | Mini-ETL on Walmart Sample | Lab 08: Walmart Warm-Up (SKU Mess) |
 | 9 | Oct 19–23 | **Midterm Kickoff** + Team Formation | Weather API Join Studio | Midterm Checkpoint (Lab 09) |
 | 10 | Oct 26–30 | Midterm Clinic: Cleaning & Joins | Midterm Clinic: Analysis & Charts | Midterm Progress (Lab 10) |
