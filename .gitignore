@@ -21,6 +21,7 @@ data/full/
 *.db-journal
 
 # Secrets / keys
+.canvas_token
 *.pem
 *.key
 *_key

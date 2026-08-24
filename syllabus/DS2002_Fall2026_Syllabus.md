@@ -144,7 +144,7 @@ Each **Wednesday studio** ends with a short **breakout checkpoint**:
 
 **How it's graded:** mostly **completion**. Submit something plausibly tied to that day's studio and you get credit for that week. TAs spot-check; you are not graded on being loud or extroverted.
 
-**Over the term:** about **12** checkpoint opportunities. Submit **10** for full participation credit. Miss a few — no problem. Weeks with no studio meeting (e.g. Thanksgiving) do not count.
+**Over the term:** **13** checkpoint opportunities. Submit **10** for full participation credit. Miss a few — no problem. Weeks with no studio meeting (e.g. Thanksgiving) do not count.
 
 Collaborate in the room; **submit on your own.**
 
