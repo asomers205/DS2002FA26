@@ -24,7 +24,7 @@
 - Email: jasonw@virginia.edu
 - Office Hours: Scheduled during class time as we build in time for projects, or by request.
 - Zoom: <https://virginia.zoom.us/j/5636132721?pwd=NzljVTBlcVlZM0ZkYXFCdTJReUFEQT09>
-- Slack: A class Slack workspace will be set up for DMs and announcements. You will receive an invite.
+- Discord: **DS2002F26** — <https://discord.gg/zTr98dm6x>. This is where course questions get answered. Official notices come through Canvas Announcements.
 
 **Teaching Assistants**
 
@@ -69,7 +69,14 @@ By the end of the semester, you will be able to:
 
 ## Required Software
 
-We are **100% in notebooks** — Kaggle or Google Colab. Nothing to install locally. You will also need a free **GitHub** account. All libraries we use (`pandas`, `matplotlib`, `seaborn`, `sqlite3`, `requests`) are preinstalled on both platforms.
+We are **100% in notebooks** — Kaggle or Google Colab. Nothing to install locally. All libraries we use (`pandas`, `matplotlib`, `seaborn`, `sqlite3`, `requests`) are preinstalled on both platforms.
+
+Two free accounts are required, and both take about two minutes:
+
+- **GitHub** — <https://github.com>. Your work is versioned here, and the course notebooks live here. Needed before Lab 01.
+- **Discord** — <https://discord.com>. Then accept the invite to the **DS2002F26** server: <https://discord.gg/zTr98dm6x>. This is how you get help during the week.
+
+Set both up in the first week. If you already have accounts, use them — there is no need to make new ones for this course.
 
 ## Learning Resources
 
@@ -191,11 +198,33 @@ Come to class if you can. If you can't, let me know — I'm flexible and underst
 
 ### Communication and Response Time
 
-Email or DM me anytime and I will respond as soon as possible. Slack is usually preferred — asking questions in the channel promotes discussion and helps everyone. Questions containing personal information should be emailed. The sooner you tell me about anything affecting your attendance or performance, the better our chance of solving it together.
+Three channels, and it matters which one you use.
 
-### Slack
+| What | Where | Why |
+|------|-------|-----|
+| Official notices — due dates, schedule changes, logistics | **Canvas Announcements** | This is the course record. You are responsible for reading it. |
+| Course questions — "why does my push fail," "is my join wrong" | **Discord** | Fastest answer, and the next person with your problem can find it. |
+| Anything personal — grades, accommodations, extensions, health | **Email** (<jasonw@virginia.edu>) | Private, and it creates a record we can both refer to. |
 
-We will set up a Slack workspace and invite you for DMs and class announcements. Slack is the preferred channel for course questions so others can benefit from the discussion.
+Ask course questions in Discord rather than by email. You will usually get an answer sooner, and the answer helps whoever hits the same wall next week. Anything with personal information in it belongs in email, not a public channel.
+
+The sooner you tell me about something affecting your attendance or performance, the better our chance of solving it together.
+
+### Discord — DS2002F26
+
+Join here: <https://discord.gg/zTr98dm6x>. You need a free Discord account first (<https://discord.com>); if you already have one, use it.
+
+**Set your server nickname to your real name and section** — for example `Jane Doe (001)`. With over a hundred students across two sections, a handle nobody can match to the roster means I cannot help you, credit you, or tell which section you are in.
+
+Where to post:
+
+- **Questions forum** — one thread per question. Search it before you post; there is a good chance your question is already answered.
+- **Section channels** — logistics for your own section.
+- **Not DMs.** Ask in the forum, not privately. It is not that I mind — it is that a DM answer helps exactly one person, and I would rather answer once where everyone can read it. Personal matters go to email.
+
+**One firm rule about code.** The course policy below applies in Discord exactly as it does anywhere else: explaining an individual line, describing your approach, or debugging alongside someone is collaboration and is welcome. Posting a working solution to a lab — as text or a screenshot — is not, and it is an honor violation for both of you. Post the error, the line that confuses you, and what you already tried.
+
+Discord is a convenience, not the record. If it disappeared tomorrow, everything you are graded on still lives in Canvas and GitHub.
 
 ### Academic Integrity: Collaboration and Cheating
 
@@ -314,7 +343,7 @@ UVA is committed to advancing student mental health and wellbeing. If you or som
 
 - **Login/Password:** <https://in.virginia.edu/helpdesk>
 - **Canvas:** Check the Help tab for resources
-- **Kaggle/Colab:** In-app help; ask in Slack first so others benefit
+- **Kaggle/Colab:** In-app help; ask in Discord first so others benefit
 
 ---
 
