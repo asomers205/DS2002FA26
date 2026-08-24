@@ -1,5 +1,6 @@
-# Instructor-only answer keys — never push to the student org
+# Instructor-only — never push to the student repo
 instructor/
+admin/
 **/*ANSWER KEY*.ipynb
 
 # Environments

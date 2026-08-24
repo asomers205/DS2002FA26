@@ -30,7 +30,6 @@ Fridays are **not scheduled meetings**. The lab is released Friday and you compl
 DS2002FA26/
 ├── README.md                     <- you are here
 ├── syllabus/                     <- Fall 2026 syllabus
-├── admin/                        <- workflow + instructor notes
 ├── templates/                    <- project README + submission checklist
 ├── rubrics/                      <- lab + project rubrics
 ├── data/sample/                  <- tiny sample data only
