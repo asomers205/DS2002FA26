@@ -1,0 +1,29 @@
+# Instructor-only answer keys — never push to the student org
+instructor/
+**/*ANSWER KEY*.ipynb
+
+# Environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Large / generated data (keep only data/sample/)
+data/full/
+*.db-journal
+
+# Secrets / keys
+*.pem
+*.key
+*_key
+*_key.pub
+*.json.key
+service-account*.json
+.env
