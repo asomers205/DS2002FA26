@@ -113,7 +113,7 @@ Friday labs are released each Friday and completed asynchronously. Recommended: 
 | 12 | Nov 9–13 | Visualization for Decisions (not Dashboards) | Critique + Redesign Studio | Lab 11: Visualization Challenge |
 | 13 | Nov 16–20 | **Capstone** Design & Scoping | Capstone Data Acquisition Plan | Lab 12: Proposal + Pipeline Setup |
 | 14 | Nov 23 | Capstone Workshop (Mon only) | *Thanksgiving Recess* | *No lab* |
-| 15 | Nov 30–Dec 4 | Capstone Analysis Clinic | Presentation Run-of-Show | Capstone Checkpoint (Lab 13) |
+| 15 | Nov 30–Dec 4 | Capstone Analysis Clinic | Presentation Prep | Capstone Checkpoint (Lab 13) |
 | 16 | Dec 7 | Wrap-Up + What to Keep Using | *(Term ends Tue Dec 8)* | **Capstone Due + Presentations** |
 
 *Presentation days may slide between Weeks 15–16 as project timelines firm up.*
